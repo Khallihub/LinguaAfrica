@@ -18,7 +18,7 @@ function Navbar() {
         <nav class="navbar  navbar-dark bg-dark">
         <div class="container-fluid">
           <a class="navbar-brand" href="#">
-            <img style={{width:"120px", padding:"6px"}} src="https://i.imgur.com/juL1aAc.png" alt="" />
+            <img style={{width:"120px", padding:"6px", borderRadius:"60px"}} src="africa.jpg" alt="" />
 
           </a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">

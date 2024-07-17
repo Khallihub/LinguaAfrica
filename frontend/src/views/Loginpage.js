@@ -30,10 +30,10 @@ function Loginpage() {
             <div className="row g-0">
               <div className="col-md-6 col-lg-5 d-none d-md-block">
                 <img
-                  src="frontend\public\africa.jpg"
+                  src="/africa.jpg"
                   alt="login form"
                   className="img-fluid"
-                  style={{ borderRadius: "1rem 0 0 1rem" }}
+                  style={{ borderRadius: "1rem 0 0 1rem", height:"80%" }}
                 />
               </div>
               <div className="col-md-6 col-lg-7 d-flex align-items-center">

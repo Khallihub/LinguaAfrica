@@ -20,7 +20,7 @@ function Homepage() {
                         src="https://bootdey.com/img/Content/avatar/avatar3.png"
                         className="rounded-circle mr-1"
                         alt="Sharon Lessman"
-                        width={40}
+                       width={40}
                         height={40}
                       />
                       <p></p>
