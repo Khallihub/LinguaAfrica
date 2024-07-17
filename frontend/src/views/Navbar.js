@@ -42,12 +42,6 @@ function Navbar() {
 
             {token !== null && 
               <>
-                {/* <li class="nav-item">
-                  <Link class="nav-link" to="/dashboard"> <i className='fas fa-th'></i> Dashboard</Link>
-                </li> */}
-                {/* <li class="nav-item">
-                  <Link class="nav-link" to="/todo"> <i className='fas fa-pen'></i> Todo</Link>
-                </li> */}
                 <li class="nav-item">
                   <Link class="nav-link" to="/inbox"> <i className='fas fa-envelope'></i> Inbox</Link>
                 </li>
